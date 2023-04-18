@@ -9,4 +9,5 @@ Further, these insights would help the business owner decide whether he/she shou
 I used MS-SQL Server and created the database in my local machine to carry forward with the analysis. 
 
 The datasets used for the analysis can be viewed on the below website:
+
 https://8weeksqlchallenge.com/case-study-1/
