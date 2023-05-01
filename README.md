@@ -1,4 +1,4 @@
-# SQL_Danny-s-Diner
+# SQL_Danny's_Diner
 
 In this SQL project, I have analysed the data from a restaurant called Danny's Diner and answered questions by drawing insights regarding the visiting pattern of customers, how much money they’ve spent, which menu items are their favourite and several other questions that would help the business owner in further scaling up his venture.
 
