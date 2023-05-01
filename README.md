@@ -6,7 +6,7 @@ It is crucial for any small business owner to have a deep connection with his/he
 
 Further, these insights would help the business owner decide whether he/she should expand the existing customer loyalty program before investing further into the venture.
 
-I used MS-SQL Server and created the database in my local machine to carry forward with the analysis. 
+I have used MS-SQL Server and created the database in my local machine to carry forward with the analysis. 
 
 The datasets used for the analysis can be viewed on the below website:
 
